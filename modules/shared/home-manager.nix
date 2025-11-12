@@ -69,6 +69,10 @@ let name = "Fredrik Brännbacka";
     };
   };
 
+  lazygit = {
+    enable = true;
+  };
+
   neovim = {
     enable = true;
     defaultEditor = true;
